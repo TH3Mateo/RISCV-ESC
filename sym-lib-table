@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CH32V203F6P6")(type "KiCad")(uri "${KIPRJMOD}/MCU_WCH_CH32V203F6P6.kicad_sym")(options "")(descr ""))
+  (lib (name "GR3115")(type "Altium")(uri "${KIPRJMOD}/custom_parts/GR3115.SchLib")(options "")(descr ""))
+)
