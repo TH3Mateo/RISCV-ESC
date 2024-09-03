@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=12V Pin=D5-1
+Removed Pin From Net: NetName=12V Pin=D7-1
+Removed Pin From Net: NetName=12V Pin=D17-1
+Removed Pin From Net: NetName=12V Pin=DR1-1
+Removed Pin From Net: NetName=12V Pin=DR2-1
+Removed Pin From Net: NetName=12V Pin=DR3-1
+Added Pin To Net: NetName=3V3 Pin=D5-1
+Added Pin To Net: NetName=3V3 Pin=D7-1
+Added Pin To Net: NetName=3V3 Pin=D17-1
+Added Pin To Net: NetName=3V3 Pin=DR1-1
+Added Pin To Net: NetName=3V3 Pin=DR2-1
+Added Pin To Net: NetName=3V3 Pin=DR3-1
+Add Class: Class already exists: Designator

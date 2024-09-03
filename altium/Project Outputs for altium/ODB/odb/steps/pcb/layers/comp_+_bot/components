@@ -1,0 +1,68 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 8 89.281 67.93799976 90 N U1 AMS1117-3.3 ;0=1,1=1.8000
+PRP Automotive 'No'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.advanced-monolithic.com/pdf/ds1117.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Power Management ICs'
+PRP Device_Class_L3 'Voltage Regulators - Linear'
+PRP Dropout_Voltage '1.1V'
+PRP Height '1.8mm'
+PRP Ipc_Land_Pattern_Name 'SOT229P700X180-4'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Advanced Monolithic Systems'
+PRP Manufacturer_Part_Number 'AMS1117-3.3'
+PRP Max_Junction_Temp '+125°C'
+PRP Max_Power_Dissipation '1.2W'
+PRP Max_Supply_Voltage '15V'
+PRP Nominal_Supply_Current '5mA'
+PRP Number_Of_Outputs '1'
+PRP Octopart 'https://octopart.com/ams1117-3.3-advanced+monolithic+systems-25899300'
+PRP Output_Current '1A'
+PRP Output_Type 'Fixed'
+PRP Output_Voltage '3.3V'
+PRP Package 'AMS1117'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.64mm'
+PRP Temperature '-40°C to +125°C'
+PRP Temperature_Range_High '+125°C'
+PRP Temperature_Range_Low '-40°C'
+TOP 0 86.9909995 71.23299952 90 N 79 33 1
+TOP 1 89.281 71.23299952 90 N 0 0 2
+TOP 2 91.5710005 71.23299952 90 N 68 1 3
+TOP 3 89.281 64.643 90 N 80 3 4
+#
+# CMP 1
+CMP 1 86.36 64.643 180 N C2 Capacitor ;0=1,1=0.8900
+PRP CPAR ''
+PRP LSER ''
+PRP RLSHUNT ''
+PRP RPAR ''
+PRP RSER ''
+PRP SimulationGenericComponent 'True'
+PRP TEMP ''
+PRP Value '10u'
+TOP 0 85.70999876 64.643 0 N 79 31 1
+TOP 1 87.01000124 64.643 0 N 80 2 2
+#
+# CMP 2
+CMP 1 92.837 72.644 0 N C1 Capacitor ;0=1,1=0.8900
+PRP CPAR ''
+PRP LSER ''
+PRP RLSHUNT ''
+PRP RPAR ''
+PRP RSER ''
+PRP SimulationGenericComponent 'True'
+PRP TEMP ''
+PRP Value '10u'
+TOP 0 93.48700124 72.644 180 N 79 32 1
+TOP 1 92.18699876 72.644 180 N 68 0 2
+#

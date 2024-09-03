@@ -1,0 +1,13 @@
+Added Component: Designator=C22(CAPAE7266X80M)
+Add component (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RLSHUNT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150u"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=12V Pin=C22-2
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C22 Capacitor

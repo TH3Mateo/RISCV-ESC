@@ -1,0 +1,5 @@
+Added Component: Designator=TP46(ROUND_SMALL)
+Added Pin To Net: NetName=SDATA Pin=TP46-1
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component TP19 =Value
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component TP46 =Value

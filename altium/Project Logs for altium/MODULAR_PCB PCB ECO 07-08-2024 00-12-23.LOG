@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetC7_1 New Net Name=OUT_A
+Change Net Name : Old Net Name=NetC8_2 New Net Name=OUT_B
+Change Net Name : Old Net Name=NetC9_1 New Net Name=OUT_C
+Add Class: Class already exists: Designator

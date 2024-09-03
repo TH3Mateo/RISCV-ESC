@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=OUT1 Pin=DR1-3
+Removed Pin From Net: NetName=OUT2 Pin=DR2-2
+Removed Pin From Net: NetName=OUT3 Pin=DR2-3
+Removed Pin From Net: NetName=OUT4 Pin=DR3-2
+Removed Pin From Net: NetName=OUT5 Pin=DR3-3
+Removed Pin From Net: NetName=OUT1 Pin=TP24-1
+Removed Pin From Net: NetName=OUT2 Pin=TP25-1
+Removed Pin From Net: NetName=OUT4 Pin=TP35-1
+Removed Pin From Net: NetName=OUT5 Pin=TP38-1
+Added Pin To Net: NetName=OUT1 Pin=DR1-2
+Added Pin To Net: NetName=OUT0 Pin=DR1-3
+Added Pin To Net: NetName=OUT3 Pin=DR2-2
+Added Pin To Net: NetName=OUT4 Pin=DR3-3
+Added Pin To Net: NetName=OUT1 Pin=TP23-1
+Added Pin To Net: NetName=OUT0 Pin=TP24-1
+Added Pin To Net: NetName=OUT3 Pin=TP25-1
+Added Pin To Net: NetName=OUT4 Pin=TP38-1
+Added Pin To Net: NetName=NetDR3_2 Pin=DR3-2
+Added Pin To Net: NetName=NetDR3_2 Pin=TP35-1
+Added Net: Name=NetDR3_2
+Add Class: Class already exists: Designator

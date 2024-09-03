@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetB1_6 Pin=IC1-4
+Added Pin To Net: NetName=FSYNC Pin=IC1-4
+Add Class: Class already exists: Designator

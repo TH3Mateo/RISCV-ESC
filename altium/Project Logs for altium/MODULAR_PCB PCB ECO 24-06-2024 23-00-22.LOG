@@ -1,0 +1,3 @@
+Added Component: Designator=TP13(ROUND_SMALL)
+Added Pin To Net: NetName=NetB1_8 Pin=TP13-1
+Added Member To Class: ClassName=MCU Member=Component TP13 =Value

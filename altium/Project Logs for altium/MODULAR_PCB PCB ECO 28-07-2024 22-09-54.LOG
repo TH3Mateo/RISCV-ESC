@@ -1,0 +1,417 @@
+Added Component: Designator=IC1(SOP65P638X110-24N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/cd00005085.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STP16C596ATTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STP16C596ATTR?qs=y2Ae8b0edtM6tyumk2sS7g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(STM-TO-220A-3)
+Add component (AddParameter): Name = "Category"; Value = "PowerMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Mode"; Value = "Enhancement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channel Type"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.st.com/content/ccc/resource/technical/document/datasheet/f1/46/49/9e/39/8f/49/aa/CD00002670.pdf/files/CD00002670.pdf/jcr:content/translations/en.CD00002670.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 8, 10/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimensions"; Value = "10.4x4.6x9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Continuous Drain Current"; Value = "80A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Resistance"; Value = "0.007O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Drain Source Voltage"; Value = "55V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Source Voltage"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Gate Threshold Voltage"; Value = "4V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Operating Temperature"; Value = "+175°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Gate Threshold Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements per Chip"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, 10.2 x 4.5 mm, Pitch 2.55 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Transistor Material"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Gate Charge @ Vgs"; Value = "142nC@10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Input Capacitance @ Vds"; Value = "4400pF@25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-Off Delay Time"; Value = "125ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Typical Turn-On Delay Time"; Value = "27ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(PCBComponent_1)
+Added Component: Designator=TP15(PCBComponent_1)
+Added Component: Designator=TP16(PCBComponent_1)
+Added Component: Designator=TP17(PCBComponent_1)
+Added Component: Designator=TP18(PCBComponent_1)
+Added Component: Designator=TP19(PCBComponent_1)
+Added Component: Designator=TP20(PCBComponent_1)
+Added Component: Designator=TP21(PCBComponent_1)
+Added Component: Designator=TP22(PCBComponent_1)
+Added Component: Designator=TP23(PCBComponent_1)
+Added Component: Designator=TP24(PCBComponent_1)
+Added Component: Designator=TP25(PCBComponent_1)
+Added Component: Designator=TP26(PCBComponent_1)
+Added Component: Designator=TP27(PCBComponent_1)
+Added Component: Designator=TP28(PCBComponent_1)
+Added Component: Designator=U1(ADI-RM-10_M)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-187-BA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Compliance Range (V)"; Value = "650mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "www.analog.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.analog.com/static/imported-files/data_sheets/AD9833.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.analog.com/static/imported-files/packages/PKG_PDF/MSOP%28RM%29/RM_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FS Iout (mA nom)"; Value = "3mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I Supply total (max)"; Value = "5.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/O Interface"; Value = "Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Master fclk"; Value = "25MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "10-Lead Mini Small Outline Package [MSOP]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RM-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "5/8/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REFCLK Multiplier"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resolution (Bits)"; Value = "10bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tuning Word Width (bits)"; Value = "28bit"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin DR1-1
+Add Pin To Net: Unknown Pin: Pin DR1-3
+Add Pin To Net: Unknown Pin: Pin DR1-4
+Add Pin To Net: Unknown Pin: Pin DR1-5
+Add Pin To Net: Unknown Pin: Pin DR1-6
+Add Pin To Net: Unknown Pin: Pin DR1-7
+Add Pin To Net: Unknown Pin: Pin DR1-8
+Add Pin To Net: Unknown Pin: Pin DR2-1
+Add Pin To Net: Unknown Pin: Pin DR2-2
+Add Pin To Net: Unknown Pin: Pin DR2-3
+Add Pin To Net: Unknown Pin: Pin DR2-4
+Add Pin To Net: Unknown Pin: Pin DR2-5
+Add Pin To Net: Unknown Pin: Pin DR2-6
+Add Pin To Net: Unknown Pin: Pin DR2-7
+Add Pin To Net: Unknown Pin: Pin DR2-8
+Add Pin To Net: Unknown Pin: Pin DR3-1
+Add Pin To Net: Unknown Pin: Pin DR3-2
+Add Pin To Net: Unknown Pin: Pin DR3-3
+Add Pin To Net: Unknown Pin: Pin DR3-4
+Add Pin To Net: Unknown Pin: Pin DR3-5
+Add Pin To Net: Unknown Pin: Pin DR3-6
+Add Pin To Net: Unknown Pin: Pin DR3-7
+Add Pin To Net: Unknown Pin: Pin DR3-8
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=SDATA Pin=IC1-2
+Added Pin To Net: NetName=SCLK Pin=IC1-3
+Added Pin To Net: NetName=FSYNC Pin=IC1-4
+Added Pin To Net: NetName=OUT0 Pin=IC1-5
+Added Pin To Net: NetName=OUT1 Pin=IC1-6
+Added Pin To Net: NetName=OUT2 Pin=IC1-7
+Added Pin To Net: NetName=OUT3 Pin=IC1-8
+Added Pin To Net: NetName=OUT4 Pin=IC1-9
+Added Pin To Net: NetName=OUT5 Pin=IC1-10
+Added Pin To Net: NetName=MCLK Pin=IC1-21
+Added Pin To Net: NetName=3V3 Pin=IC1-24
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-1
+Added Pin To Net: NetName=12V Pin=Q1-2
+Added Pin To Net: NetName=NetC6_1 Pin=Q1-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC6_1 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q3-1
+Added Pin To Net: NetName=12V Pin=Q3-2
+Added Pin To Net: NetName=NetC7_2 Pin=Q3-3
+Added Pin To Net: NetName=NetD6_1 Pin=Q4-1
+Added Pin To Net: NetName=NetC7_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetD8_1 Pin=Q5-1
+Added Pin To Net: NetName=12V Pin=Q5-2
+Added Pin To Net: NetName=NetC8_1 Pin=Q5-3
+Added Pin To Net: NetName=NetD9_1 Pin=Q6-1
+Added Pin To Net: NetName=NetC8_1 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin S_PAD1-1
+Add Pin To Net: Unknown Pin: Pin S_PAD2-1
+Added Pin To Net: NetName=NetTP14_1 Pin=TP14-1
+Added Pin To Net: NetName=FSYNC Pin=TP16-1
+Added Pin To Net: NetName=SCLK Pin=TP17-1
+Added Pin To Net: NetName=SDATA Pin=TP18-1
+Added Pin To Net: NetName=GND Pin=TP19-1
+Added Pin To Net: NetName=MCLK Pin=TP20-1
+Added Pin To Net: NetName=3V3 Pin=TP21-1
+Added Pin To Net: NetName=NetTP22_1 Pin=TP22-1
+Added Pin To Net: NetName=OUT1 Pin=TP24-1
+Added Pin To Net: NetName=OUT2 Pin=TP25-1
+Added Pin To Net: NetName=OUT3 Pin=TP26-1
+Added Pin To Net: NetName=OUT4 Pin=TP27-1
+Added Pin To Net: NetName=OUT5 Pin=TP28-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=NetTP22_1 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=MCLK Pin=U1-5
+Added Pin To Net: NetName=SDATA Pin=U1-6
+Added Pin To Net: NetName=SCLK Pin=U1-7
+Added Pin To Net: NetName=FSYNC Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetTP14_1 Pin=U1-10
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Add Class Member: Failed to add class member : Component D3 Diode
+Add Class Member: Failed to add class member : Component D4 Diode
+Add Class Member: Failed to add class member : Component D5 Diode
+Add Class Member: Failed to add class member : Component D6 Diode
+Add Class Member: Failed to add class member : Component D7 Diode
+Add Class Member: Failed to add class member : Component D8 Diode
+Add Class Member: Failed to add class member : Component D9 Diode
+Add Class Member: Failed to add class member : Component DR1 GR3115
+Add Class Member: Failed to add class member : Component DR2 GR3115
+Add Class Member: Failed to add class member : Component DR3 GR3115
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component IC1 STP16C596ATTR
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q1 STP80NF55-06
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q2 STP80NF55-06
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q3 STP80NF55-06
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q4 STP80NF55-06
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q5 STP80NF55-06
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component Q6 STP80NF55-06
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component S_PAD1 SOLDER_PAD
+Add Class Member: Failed to add class member : Component S_PAD2 SOLDER_PAD
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP14 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP15 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP16 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP17 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP18 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP19 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP20 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP21 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP22 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP23 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP24 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP25 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP26 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP27 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component TP28 =Value
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component U1 AD9833WBRMZ-REEL

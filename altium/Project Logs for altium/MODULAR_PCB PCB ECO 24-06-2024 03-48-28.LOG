@@ -1,0 +1,3 @@
+Added Component: Designator=CP1(PAD_SQUARE)
+Added Pin To Net: NetName=3V3 Pin=CP1-1
+Added Member To Class: ClassName=MCU Member=Component CP1 CONNECT_PAD

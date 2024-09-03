@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=FSYNC Pin=TP16-1
+Removed Pin From Net: NetName=OUT3 Pin=TP26-1
+Removed Pin From Net: NetName=FSYNC Pin=U2-8
+Change Net Name : Old Net Name=FSYNC New Net Name=NetB1_6
+Added Pin To Net: NetName=FSYNC Pin=B1-14
+Added Pin To Net: NetName=FSYNC Pin=TP8-1
+Added Pin To Net: NetName=FSYNC Pin=TP16-1
+Added Pin To Net: NetName=FSYNC Pin=U2-8
+Added Net: Name=FSYNC
+Add Class: Class already exists: Designator

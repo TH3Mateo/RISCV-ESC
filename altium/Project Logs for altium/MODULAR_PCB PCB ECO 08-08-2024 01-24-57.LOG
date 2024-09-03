@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=MAIN_DRIVER Member=C13
+Removed Member From Class: ClassName=MAIN_DRIVER Member=C15
+Removed Member From Class: ClassName=MAIN_DRIVER Member=C17
+Change Component Footprint: Designator=S_PAD1 Old Footprint=PAD_SQUARE New Footprint=POWER_PAD
+Change Component Footprint: Designator=S_PAD2 Old Footprint=PAD_SQUARE New Footprint=POWER_PAD
+Change Component Footprint: Designator=S_PAD3 Old Footprint=PAD_SQUARE New Footprint=POWER_PAD
+Change Component Footprint: Designator=S_PAD4 Old Footprint=PAD_SQUARE New Footprint=POWER_PAD
+Change Component Footprint: Designator=S_PAD5 Old Footprint=PAD_SQUARE New Footprint=POWER_PAD
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C6 Capacitor
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C7 Capacitor
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C8 Capacitor
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C10 Capacitor
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component C12 Capacitor
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component TP21 =Value

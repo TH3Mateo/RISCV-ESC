@@ -1,0 +1,4 @@
+Added Component: Designator=TP47(ROUND_SMALL)
+Added Pin To Net: NetName=FSYNC Pin=TP47-1
+Add Class: Class already exists: Designator
+Added Member To Class: ClassName=MAIN_DRIVER Member=Component TP47 =Value

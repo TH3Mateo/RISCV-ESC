@@ -1,0 +1,104 @@
+Change Component Footprint: Designator=TP14 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP15 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP16 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP17 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP18 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP19 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP20 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP21 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP22 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP23 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP25 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP26 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP27 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP28 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Added Component: Designator=DR1(PCBComponent_1)
+Added Component: Designator=DR2(PCBComponent_1)
+Added Component: Designator=DR3(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Added Pin To Net: NetName=12V Pin=DR1-1
+Added Pin To Net: NetName=OUT1 Pin=DR1-3
+Added Pin To Net: NetName=GND Pin=DR1-4
+Added Pin To Net: NetName=NetD2_2 Pin=DR1-5
+Added Pin To Net: NetName=NetC6_1 Pin=DR1-6
+Added Pin To Net: NetName=NetD1_2 Pin=DR1-7
+Added Pin To Net: NetName=NetC6_2 Pin=DR1-8
+Added Pin To Net: NetName=12V Pin=DR2-1
+Added Pin To Net: NetName=OUT2 Pin=DR2-2
+Added Pin To Net: NetName=OUT3 Pin=DR2-3
+Added Pin To Net: NetName=GND Pin=DR2-4
+Added Pin To Net: NetName=NetD6_2 Pin=DR2-5
+Added Pin To Net: NetName=NetC7_2 Pin=DR2-6
+Added Pin To Net: NetName=NetD4_2 Pin=DR2-7
+Added Pin To Net: NetName=NetC7_1 Pin=DR2-8
+Added Pin To Net: NetName=12V Pin=DR3-1
+Added Pin To Net: NetName=OUT4 Pin=DR3-2
+Added Pin To Net: NetName=OUT5 Pin=DR3-3
+Added Pin To Net: NetName=GND Pin=DR3-4
+Added Pin To Net: NetName=NetD9_2 Pin=DR3-5
+Added Pin To Net: NetName=NetC8_1 Pin=DR3-6
+Added Pin To Net: NetName=NetD8_2 Pin=DR3-7
+Added Pin To Net: NetName=NetC8_2 Pin=DR3-8
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin S_PAD1-1
+Add Pin To Net: Unknown Pin: Pin S_PAD2-1
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component D1 Diode
+Add Class Member: Failed to add class member : Component D2 Diode
+Add Class Member: Failed to add class member : Component D3 Diode
+Add Class Member: Failed to add class member : Component D4 Diode
+Add Class Member: Failed to add class member : Component D5 Diode
+Add Class Member: Failed to add class member : Component D6 Diode
+Add Class Member: Failed to add class member : Component D7 Diode
+Add Class Member: Failed to add class member : Component D8 Diode
+Add Class Member: Failed to add class member : Component D9 Diode
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component DR1 GR3115
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component DR2 GR3115
+Added Member To Class: ClassName=ADC_DAC_expansion Member=Component DR3 GR3115
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component S_PAD1 SOLDER_PAD
+Add Class Member: Failed to add class member : Component S_PAD2 SOLDER_PAD

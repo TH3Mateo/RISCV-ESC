@@ -1,0 +1,26 @@
+Added Component: Designator=CASTH1(CASTHEADERX5)
+Added Component: Designator=R1(SMD-0603-RES)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RST Pin=CASTH1-1
+Added Pin To Net: NetName=RST Pin=CASTH1-1
+Added Pin To Net: NetName=NetB1_20 Pin=CASTH1-2
+Added Pin To Net: NetName=NetB1_20 Pin=CASTH1-2
+Added Pin To Net: NetName=NetB1_19 Pin=CASTH1-3
+Added Pin To Net: NetName=NetB1_19 Pin=CASTH1-3
+Added Pin To Net: NetName=GND Pin=CASTH1-4
+Added Pin To Net: NetName=GND Pin=CASTH1-4
+Added Pin To Net: NetName=3V3 Pin=CASTH1-5
+Added Pin To Net: NetName=3V3 Pin=CASTH1-5
+Add Pin To Net: Unknown Pin: Pin CP1-1
+Added Pin To Net: NetName=NetB1_18 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Member To Class: ClassName=MCU Member=Component CASTH1 CastHeaderx5
+Add Class Member: Failed to add class member : Component CP1 CONNECT_PAD
+Added Member To Class: ClassName=MCU Member=Component R1 Resistor

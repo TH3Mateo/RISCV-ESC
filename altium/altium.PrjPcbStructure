@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MAIN_DRIVER.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MAIN_DRIVER.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=CURRENT_SENSE.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=CURRENT_SENSE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MAIN_DRIVER.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=MCU.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

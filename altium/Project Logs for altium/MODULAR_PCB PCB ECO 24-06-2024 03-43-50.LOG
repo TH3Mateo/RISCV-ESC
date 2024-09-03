@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=TP1 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP2 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP3 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP4 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP5 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP6 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP7 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP8 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP9 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP10 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP11 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Change Component Footprint: Designator=TP12 Old Footprint=PCBComponent_1 New Footprint=ROUND_SMALL
+Add Pin To Net: Unknown Pin: Pin CASTH1-1
+Add Pin To Net: Unknown Pin: Pin CASTH1-2
+Add Pin To Net: Unknown Pin: Pin CASTH1-3
+Add Pin To Net: Unknown Pin: Pin CASTH1-4
+Add Pin To Net: Unknown Pin: Pin CASTH1-5
+Add Pin To Net: Unknown Pin: Pin CP1-1
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Class Member: Failed to add class member : Component CASTH1 CastHeaderx5
+Add Class Member: Failed to add class member : Component CP1 CONNECT_PAD
+Add Class Member: Failed to add class member : Component R1 Resistor
